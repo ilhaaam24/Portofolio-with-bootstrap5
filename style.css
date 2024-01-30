@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif; 
+}
+.navbar-brand{
+    color: #F6B17A;
+    font-size: 1.4rem;
+    font-weight: 500;
+}
+.navbar{
+    background-color: #424769;
+}
+.jumbotron{
+    padding-top: 6rem ;
+    background-color: #abb2da;
+}
+section{
+    padding-top: 6rem;
+}
+.nav-link:hover{
+color: #F6B17A;
+}
+
+#projects{
+    background-color: #abb2da;
+}
+#btn-kirim{
+    background-color: #424769;
+    border: none;
+}
+#footer{
+    background-color: #424769;
+}
